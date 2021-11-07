@@ -1,0 +1,13 @@
+.header-container {
+    width: 100%;
+    height: 500px;
+    padding: 300px;
+    background-image: url(https://media.istockphoto.com/photos/futuristic-office-picture-id1187179171);
+    background-repeat: no-repeat;
+    background-position: contain;
+    background-size: 100%;
+}
+
+.header-content {
+    width: 60%;
+}
